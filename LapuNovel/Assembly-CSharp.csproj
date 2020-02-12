@@ -63,6 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CBoardController.cs" />
+    <Compile Include="Assets\Scripts\Choice.cs" />
+    <Compile Include="Assets\Scripts\ChoicePointer.cs" />
     <Compile Include="Assets\Scripts\ConverBoard.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Admin.18SCOMPD192/Documents/GitHub/LapuNovel/LapuNovel/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
