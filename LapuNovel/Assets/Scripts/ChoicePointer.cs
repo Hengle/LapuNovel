@@ -19,8 +19,5 @@ public class ChoicePointer : MonoBehaviour
         
     }
 
-    public void ClickBtn()
-    {
 
-    }
 }
