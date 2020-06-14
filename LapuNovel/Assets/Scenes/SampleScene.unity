@@ -1002,6 +1002,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: ConversationBoard
       objectReference: {fileID: 0}
+    - target: {fileID: 1671060317258860756, guid: f5f7cee29e5f2eb44877d0e578377a5a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1671060317258860757, guid: f5f7cee29e5f2eb44877d0e578377a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1065,7 +1070,7 @@ PrefabInstance:
     - target: {fileID: 1671060317258860757, guid: f5f7cee29e5f2eb44877d0e578377a5a,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 126.70001
+      value: -1225
       objectReference: {fileID: 0}
     - target: {fileID: 1671060317258860757, guid: f5f7cee29e5f2eb44877d0e578377a5a,
         type: 3}
